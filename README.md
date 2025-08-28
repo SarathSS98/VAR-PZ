@@ -1,4 +1,4 @@
-![Project Logo](./VAR_PZ_logo.png)
+![Project Logo](./logo.png)
 
 # VAR-PZ: Constraining the Photometric Redshifts of Quasars using Variability
 
