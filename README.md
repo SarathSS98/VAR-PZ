@@ -21,6 +21,8 @@ Note: The default version of SED modeling uses LRT (Assef et al. 2010) which doe
 The file bandmag.dat needs to include all the filters you’re using for SED fitting.
 A list of available filter names is here:
 👉 https://github.com/rjassef/LRT/tree/Sarath/Filters
+
+
 Example (SDSS filters)
 sdssu   3   3767.
 sdssg   3   3631.
