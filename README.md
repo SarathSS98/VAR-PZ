@@ -11,5 +11,7 @@
 
 
 
+## Usage
+Check out the example.ipynb in demo
 
-
+Note: The default version of SED modeling uses LRT (Assef et al. 2010) which does not support parallel processing. But, one can split the sample into chunks and initiate the process.
