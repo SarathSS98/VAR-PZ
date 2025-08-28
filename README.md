@@ -29,6 +29,6 @@ sdssg   3   3631.
 sdssr   3   3631.
 sdssi   3   3631.
 sdssz   3   3565.
-
+ 
 If you need filters that aren’t listed, you can submit a pull request to the repo
 
