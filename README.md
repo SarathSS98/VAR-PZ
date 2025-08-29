@@ -1,4 +1,4 @@
-<img src="./Deep%20Space%20Blue%20Galaxy%20Logo.png" alt="Project Logo" width="300" height="200">
+<img src="./logo.jpg" alt="Project Logo" width="300" height="200">
 # VAR-PZ: Constraining the Photometric Redshifts of Quasars using Variability
 
 # Requirements
