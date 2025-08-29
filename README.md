@@ -1,4 +1,4 @@
-![Project Logo](./Deep.png)
+![Project Logo](./Deep Space Blue Galaxy Logo.png)
 
 # VAR-PZ: Constraining the Photometric Redshifts of Quasars using Variability
 
