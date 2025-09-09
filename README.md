@@ -1,4 +1,7 @@
-<img src="./logo.png" alt="Project Logo" width="300" height="200">
+<p align="center">
+  <img src="./logo.png" alt="Project Logo" width="300" height="300">
+</p>
+
 # VAR-PZ: Constraining the Photometric Redshifts of Quasars using Variability
 
 # Requirements
