@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./varpz.png" alt="Project Logo" width="300" height="300">
+  <img src="./varpz_logo.png" alt="Project Logo" width="300" height="300">
 </p>
 
 # VAR-PZ: Constraining the Photometric Redshifts of Quasars using Variability
